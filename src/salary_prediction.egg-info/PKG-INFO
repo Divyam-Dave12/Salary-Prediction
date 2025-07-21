@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: salary-prediction
+Version: 0.1.0
+Summary: A data science project for salary prediction or medical classification
+Author-email: Divyam <divyamdave2003@gmail.com>
+Requires-Python: >=3.9

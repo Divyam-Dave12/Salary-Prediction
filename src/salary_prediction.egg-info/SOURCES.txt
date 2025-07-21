@@ -1,0 +1,16 @@
+pyproject.toml
+src/Exception.py
+src/__init__.py
+src/logger.py
+src/utils.py
+src/compoments/__init__.py
+src/compoments/data_ingestion.py
+src/compoments/data_transformation.py
+src/compoments/model_trainer.py
+src/pipline/__init__.py
+src/pipline/predict_pipeline.py
+src/pipline/train_pipeline.py
+src/salary_prediction.egg-info/PKG-INFO
+src/salary_prediction.egg-info/SOURCES.txt
+src/salary_prediction.egg-info/dependency_links.txt
+src/salary_prediction.egg-info/top_level.txt
